@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
-baseurl:
+title: Bart-Min Life Log
+url: "https://bart-min.github.io"
+baseurl:https://www.github.com
 google_analytics_key:
 show_full_navigation: true
 
