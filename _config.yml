@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Bart-Min Life Log
+title: Bart's Life Log
 url: "https://bart-min.github.io"
-baseurl: https://www.github.com
+baseurl: /
 google_analytics_key:
 show_full_navigation: true
 
@@ -11,8 +11,8 @@ show_full_navigation: true
 logo: /siteicon.png
 description: Product documentation template for Jekyll.
 author:
-  name:
-  email:
+  name: Bart Min
+  email: youngsoo.min@gmail.com
   twitter: # twitter username without the @ symbol
 social:
   name: Edition Template
